@@ -1,0 +1,47 @@
+*{
+    margin:0;
+}
+body {
+    background-color:#ede0d4;
+}
+
+body header {
+    background-color: #9d6b53;
+}
+
+
+footer {
+    background-color:#b07d62;
+}
+
+ header h1  {
+    text-align: center;
+    color: azure;   
+}
+nav ul li a  {  
+    text-decoration: none;
+    color: azure; 
+    display: inline; 
+}
+
+ul li a{
+    display: inline;
+}
+
+header nav ul{
+   list-style: none; 
+}
+footer a {
+text-decoration: none;
+display: inline;
+color: azure;
+font-size: 30px;
+margin:20px ;
+
+}
+footer h5 {
+    text-align: center;
+}
+
+
+
